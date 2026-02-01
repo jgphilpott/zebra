@@ -44,7 +44,7 @@ This repository now contains a complete, production-ready foundation for the Zeb
 ✅ Uses shared package for all business logic
 
 ### 4. Web App (`packages/web`)
-✅ Next.js 14 setup with React 18
+✅ Next.js 15 setup with React 18
 ✅ Three main pages:
 - **/** (Home) - Landing page with app description
 - **/profile** - Profile creation form

@@ -30,7 +30,7 @@ zebra/
 - **Platforms**: iOS and Android from a single codebase
 
 #### Web App (`@zebra/web`)
-- **Next.js 14** - React framework with SSR/SSG capabilities
+- **Next.js 15** - React framework with SSR/SSG capabilities
 - **React 18** - UI library
 - **TypeScript** - Type safety
 - **CSS Modules** - Scoped styling
@@ -240,7 +240,7 @@ Currently uses mock data. To add a backend:
 
 ### Web App Deployment
 Recommended platforms:
-- **Vercel** (optimal for Next.js) - One-click deployment
+- **Vercel** (optimal for Next.js 15) - One-click deployment
 - **Netlify** - Alternative with easy setup
 - **AWS Amplify** - More control, integrates with AWS services
 
